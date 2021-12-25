@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00de94bb-999f-4338-b8b3-190c67e99260" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="22jc5w7ORzkM9Oohm9VTdAADG2K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RunManager" selected="Application.classBase">
+    <configuration name="abstractBase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classBase.abstractBase" />
+      <module name="javaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classBase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="baseData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBase.baseData" />
+      <module name="javaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaBase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="classBase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classBase.classBase" />
+      <module name="javaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classBase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sonBase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classBase.sonBase" />
+      <module name="javaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classBase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="staticBase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classBase.staticBase" />
+      <module name="javaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classBase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.classBase" />
+        <item itemvalue="Application.staticBase" />
+        <item itemvalue="Application.abstractBase" />
+        <item itemvalue="Application.sonBase" />
+        <item itemvalue="Application.baseData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00de94bb-999f-4338-b8b3-190c67e99260" name="Default Changelist" comment="" />
+      <created>1640354256443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640354256443</updated>
+      <workItem from="1640354260298" duration="2511000" />
+      <workItem from="1640364185748" duration="6606000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="170" key="#com.intellij.ide.util.MemberChooser" timestamp="1640411956583">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="170" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1640411956583" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1640418755579">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1640418755579" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.25.1440.790@0.25.1440.790" timestamp="1640357918126" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1640418755578">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1640418755578" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.25.1440.790@0.25.1440.790" timestamp="1640357918125" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1640418755577">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1640418755577" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.25.1440.790@0.25.1440.790" timestamp="1640357918124" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1640418755578">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1640418755578" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.25.1440.790@0.25.1440.790" timestamp="1640357918126" />
+    <state x="229" y="86" key="SettingsEditor" timestamp="1640403232772">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1640403232772" />
+    <state x="397" y="279" key="com.intellij.ide.util.TipDialog" timestamp="1640364204294">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="279" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1640364204294" />
+    <state x="306" y="37" width="827" height="825" key="find.popup" timestamp="1640357739788">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="306" y="37" width="827" height="825" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1640357739788" />
+    <state x="482" y="62" key="refactoring.ChangeSignatureDialog" timestamp="1640402257340">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="482" y="62" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1640402257340" />
+  </component>
+</project>
